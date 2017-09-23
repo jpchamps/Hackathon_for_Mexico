@@ -28,4 +28,4 @@ Mexicans affected by the earthquake have received outstanding support from the c
 - Health support 
 If you detect any other, please include it in the list!
 
-[Presentations Slides](https://docs.google.com/presentation/d/1rxVNmR56j8hP73fatT2TvMGN9J2w8fuzX8O6dTMZvxY/edit?ts=59c6790e#slide=id.g2574c7fb04_0_46)
+[Slides](https://docs.google.com/presentation/d/1rxVNmR56j8hP73fatT2TvMGN9J2w8fuzX8O6dTMZvxY/edit?ts=59c6790e#slide=id.g2574c7fb04_0_46)
