@@ -3,6 +3,7 @@
 Guys you are amazing!! thanks for making this possible. Find below the 3 projects that were presented:
 
 ## 1. Attending the Demand
+[Github](https://github.com/jpchamps/attending_demand_sismo)
 
 Mexicans affected by the earthquake have received outstanding support from the community. The social networks have been spectators of a tremendous amount of matches between supply and demand of support, making the situation way more efficient than 1985 earthquake. Nonetheless, the lack of a tool that centralizes the demand in real time, is making it hard for support providers, and may also be leaving unattended demand, particularly from people with less visibility.
 
